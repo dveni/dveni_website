@@ -3,7 +3,7 @@
 title: Alice Bighetti 吳恩達
 
 # Full name (for SEO)
-first_name: Alice
+first_name: Daniel
 last_name: Bighetti
 
 # Is this the primary user of the site?
